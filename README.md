@@ -1,1 +1,0 @@
-# Fundamentos_de_informatica_Aizen
