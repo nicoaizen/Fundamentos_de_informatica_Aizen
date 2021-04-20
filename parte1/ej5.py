@@ -1,0 +1,5 @@
+numero1 = int(input("Numero1"))
+numero2 = int(input("Numero2"))
+numero3 = int(input("Numero3"))
+promedio = ((numero1+numero2+numero3)/3)
+print(promedio)
