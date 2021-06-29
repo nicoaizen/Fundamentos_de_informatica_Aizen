@@ -1,8 +1,5 @@
 def esMultiplo(numero1, numero2):
-    	if numero1 % numero2 == 0:
-		return True
-	else:
-		return False
+    return numero1 % numero2 == 0
 numero1 = int(input("Insertar numero1"))
 numero2 = int(input("Insertar numero2"))
 if esMultiplo(numero1, numero2):
